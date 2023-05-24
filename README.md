@@ -9,7 +9,8 @@ We aims to develop smartphone software that can recognize faces. Controlling who
 
 **OBJECTIVE**
 *The main objective of the  project is 
-HIGH ACCURACY : Face identification is to achieve high accuracy in recognizing and matching a face to a known individual.
+
+*HIGH ACCURACY : Face identification is to achieve high accuracy in recognizing and matching a face to a known individual.
 REAL-TIME PERFORMANCE : It should be able to process images and videos in real-time to ensure that they are usable in practical applications.
 USER FRIENDLY :Face identification systems should be user-friendly and easy to use, with minimal user input required.*
 
